@@ -2,7 +2,7 @@
 ## Title: Monk Stagger Bar Enhanced
 ## Notes: Simple moveable stagger bar for Brewmaster Monks
 ## Author: Claude(Original),Roffe
-## Version: 1.2
+## Version: 1.8
 ## SavedVariables: MonkStaggerBarEnhancedDB
 
 MonkStaggerBarEnhanced.lua
