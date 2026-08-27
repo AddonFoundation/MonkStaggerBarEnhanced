@@ -1,0 +1,16 @@
+lightweight tag 2f45144cce964a94ddf7a92818b9fb2ddeabe3a5 v1.9
+Author:	GitHub <noreply@github.com>
+Date:	Tue Feb 10 17:31:04 2026 -0500
+
+commit d02bd35c27166d425cf3e0ef2dca1944a1aa421e
+Author: Mastacow <Mastacow@users.noreply.github.com>
+Date:   Tue Feb 10 17:30:53 2026 -0500
+
+    Update MonkStaggerBarEnhanced.toc
+
+commit d02bd35c27166d425cf3e0ef2dca1944a1aa421e
+Author: Mastacow <Mastacow@users.noreply.github.com>
+Date:   Tue Feb 10 17:30:53 2026 -0500
+
+    Update MonkStaggerBarEnhanced.toc
+

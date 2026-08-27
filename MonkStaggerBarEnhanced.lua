@@ -652,6 +652,9 @@ local function CreateOptions()
 
     local closeBtn = CreateFrame("Button", nil, opt, "UIPanelCloseButton")
     closeBtn:SetPoint("TOPRIGHT", -2, -2)
+    closeBtn:SetScript("OnClick", function()
+        opt:Hide()
+    end)
 
     local y = -40
 
@@ -979,4 +982,4 @@ SlashCmdList["MONKSTAGGERBAR"] = function(msg)
     end
 end
 
-print("|cff00ff00MonkStaggerBarEnhanced v1.8|r loaded - /msb for options")
+print("|cff00ff00MonkStaggerBarEnhanced v2.0|r loaded - /msb for options")
